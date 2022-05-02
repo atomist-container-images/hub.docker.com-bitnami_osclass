@@ -1,12 +1,21 @@
-# Tags: latest, 8.0.1-debian-10-r110, 8.0.1, 8-debian-10, 8
+# Tags: latest, 8.0.1-debian-10-r113, 8.0.1, 8-debian-10, 8
 FROM bitnami/osclass:latest
-FROM bitnami/osclass:8.0.1-debian-10-r110
+FROM bitnami/osclass:8.0.1-debian-10-r113
 FROM bitnami/osclass:8.0.1
 FROM bitnami/osclass:8-debian-10
 FROM bitnami/osclass:8
 
 # Tags: _
 FROM bitnami/osclass:_
+
+# Tags: 8.0.1-debian-10-r112
+FROM bitnami/osclass:8.0.1-debian-10-r112
+
+# Tags: 8.0.1-debian-10-r111
+FROM bitnami/osclass:8.0.1-debian-10-r111
+
+# Tags: 8.0.1-debian-10-r110
+FROM bitnami/osclass:8.0.1-debian-10-r110
 
 # Tags: 8.0.1-debian-10-r109
 FROM bitnami/osclass:8.0.1-debian-10-r109
@@ -82,15 +91,3 @@ FROM bitnami/osclass:8.0.1-debian-10-r86
 
 # Tags: 8.0.1-debian-10-r85
 FROM bitnami/osclass:8.0.1-debian-10-r85
-
-# Tags: 8.0.1-debian-10-r84
-FROM bitnami/osclass:8.0.1-debian-10-r84
-
-# Tags: 8.0.1-debian-10-r83
-FROM bitnami/osclass:8.0.1-debian-10-r83
-
-# Tags: 8.0.1-debian-10-r82
-FROM bitnami/osclass:8.0.1-debian-10-r82
-
-# Tags: 8.0.1-debian-10-r81
-FROM bitnami/osclass:8.0.1-debian-10-r81
