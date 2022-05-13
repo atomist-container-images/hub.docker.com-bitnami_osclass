@@ -1,12 +1,42 @@
-# Tags: latest, 8.0.1-debian-10-r114, 8.0.1, 8-debian-10, 8
+# Tags: latest, 8.0.1-debian-10-r124, 8.0.1, 8-debian-10, 8
 FROM bitnami/osclass:latest
-FROM bitnami/osclass:8.0.1-debian-10-r114
+FROM bitnami/osclass:8.0.1-debian-10-r124
 FROM bitnami/osclass:8.0.1
 FROM bitnami/osclass:8-debian-10
 FROM bitnami/osclass:8
 
 # Tags: _
 FROM bitnami/osclass:_
+
+# Tags: 8.0.1-debian-10-r123
+FROM bitnami/osclass:8.0.1-debian-10-r123
+
+# Tags: 8.0.1-debian-10-r122
+FROM bitnami/osclass:8.0.1-debian-10-r122
+
+# Tags: 8.0.1-debian-10-r121
+FROM bitnami/osclass:8.0.1-debian-10-r121
+
+# Tags: 8.0.1-debian-10-r120
+FROM bitnami/osclass:8.0.1-debian-10-r120
+
+# Tags: 8.0.1-debian-10-r119
+FROM bitnami/osclass:8.0.1-debian-10-r119
+
+# Tags: 8.0.1-debian-10-r118
+FROM bitnami/osclass:8.0.1-debian-10-r118
+
+# Tags: 8.0.1-debian-10-r117
+FROM bitnami/osclass:8.0.1-debian-10-r117
+
+# Tags: 8.0.1-debian-10-r116
+FROM bitnami/osclass:8.0.1-debian-10-r116
+
+# Tags: 8.0.1-debian-10-r115
+FROM bitnami/osclass:8.0.1-debian-10-r115
+
+# Tags: 8.0.1-debian-10-r114
+FROM bitnami/osclass:8.0.1-debian-10-r114
 
 # Tags: 8.0.1-debian-10-r113
 FROM bitnami/osclass:8.0.1-debian-10-r113
@@ -64,33 +94,3 @@ FROM bitnami/osclass:8.0.1-debian-10-r96
 
 # Tags: 8.0.1-debian-10-r95
 FROM bitnami/osclass:8.0.1-debian-10-r95
-
-# Tags: 8.0.1-debian-10-r94
-FROM bitnami/osclass:8.0.1-debian-10-r94
-
-# Tags: 8.0.1-debian-10-r93
-FROM bitnami/osclass:8.0.1-debian-10-r93
-
-# Tags: 8.0.1-debian-10-r92
-FROM bitnami/osclass:8.0.1-debian-10-r92
-
-# Tags: 8.0.1-debian-10-r91
-FROM bitnami/osclass:8.0.1-debian-10-r91
-
-# Tags: 8.0.1-debian-10-r90
-FROM bitnami/osclass:8.0.1-debian-10-r90
-
-# Tags: 8.0.1-debian-10-r89
-FROM bitnami/osclass:8.0.1-debian-10-r89
-
-# Tags: 8.0.1-debian-10-r88
-FROM bitnami/osclass:8.0.1-debian-10-r88
-
-# Tags: 8.0.1-debian-10-r87
-FROM bitnami/osclass:8.0.1-debian-10-r87
-
-# Tags: 8.0.1-debian-10-r86
-FROM bitnami/osclass:8.0.1-debian-10-r86
-
-# Tags: 8.0.1-debian-10-r85
-FROM bitnami/osclass:8.0.1-debian-10-r85
